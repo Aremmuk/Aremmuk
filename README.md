@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aremmuk
 - 👀 I’m interested in ... Coding and language learning.
 - 🌱 I’m currently learning ... Spanish & Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... web development
 - 📫 How to reach me ... aremmuk@gmail.com
